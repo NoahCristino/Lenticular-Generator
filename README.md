@@ -1,5 +1,10 @@
 # Lenticular-Generator
 Generates Lenticular Images
+# Vocab
+I have no clue if some of these words in the documention really exist but here's what I mean
+* Lenticular - something made with lenticular printing
+* Lenticulite - a strip on the image (ridges)
+*I don't know if it is lenticulatite or lenticulation since they both sound the same and google doesn't help*
 # Prerequisites
 * [Python 3](https://www.python.org/downloads/)
 * [Pillow](https://pillow.readthedocs.io/en/5.2.x/)
@@ -12,7 +17,7 @@ Generates Lenticular Images
 4) Run the program `python lenticulation.py image1.png image2.png lenticules` replace `image1.png` and `image2.png` with your images and `lenticules` with the amount of lenticules
 # Printing
 1) Print out the generated image, and cut it out
-2) Fold along each lenticulation like this:
+2) Fold along each lenticulite like this:
 ![Folded Paper](http://sydneys18.weebly.com/uploads/2/5/8/9/25894045/9463040_orig.jpg)
 3) Now tilt the paper and you should be able to see both pictures depending on where you look
 # Examples
